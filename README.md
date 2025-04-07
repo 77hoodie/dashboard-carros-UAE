@@ -30,5 +30,3 @@
   ## Como executar
 
   Instale os requisitos e execute "run.py"
- 
-  - 
